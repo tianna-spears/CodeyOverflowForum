@@ -1,0 +1,19 @@
+img {
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 15px;
+  }
+  
+  h1 {
+    display: inline-block;
+    vertical-align: middle;
+    color: mediumblue;
+    line-height: 50px;
+    margin: 0;
+  }
+  
+  p {
+    margin-right: 70px;
+  }
